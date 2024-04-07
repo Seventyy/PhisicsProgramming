@@ -1,0 +1,7 @@
+C:\Users\Seventy\Documents\CMGT\Phisics Programming\Week1+\001_class_vs_struct\bin\Debug\001_ClassVsStruct.exe.config
+C:\Users\Seventy\Documents\CMGT\Phisics Programming\Week1+\001_class_vs_struct\bin\Debug\001_ClassVsStruct.exe
+C:\Users\Seventy\Documents\CMGT\Phisics Programming\Week1+\001_class_vs_struct\bin\Debug\001_ClassVsStruct.pdb
+C:\Users\Seventy\Documents\CMGT\Phisics Programming\Week1+\001_class_vs_struct\obj\x86\Debug\001_ClassVsStruct.csproj.AssemblyReference.cache
+C:\Users\Seventy\Documents\CMGT\Phisics Programming\Week1+\001_class_vs_struct\obj\x86\Debug\001_ClassVsStruct.csproj.CoreCompileInputs.cache
+C:\Users\Seventy\Documents\CMGT\Phisics Programming\Week1+\001_class_vs_struct\obj\x86\Debug\001_ClassVsStruct.exe
+C:\Users\Seventy\Documents\CMGT\Phisics Programming\Week1+\001_class_vs_struct\obj\x86\Debug\001_ClassVsStruct.pdb
