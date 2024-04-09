@@ -1,0 +1,6 @@
+C:\Users\Seventy\Documents\GitHub\Phisics Programming\Week1+\FinalAssignment\obj\x86\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\Seventy\Documents\GitHub\Phisics Programming\Week1+\FinalAssignment\obj\x86\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Seventy\Documents\GitHub\Phisics Programming\Week1+\FinalAssignment\obj\x86\Debug\GXPEngine.exe
+C:\Users\Seventy\Documents\GitHub\Phisics Programming\Week1+\FinalAssignment\obj\x86\Debug\GXPEngine.pdb
+C:\Users\Seventy\Documents\GitHub\Phisics Programming\Week1+\FinalAssignment\bin\Debug\GXPEngine.exe
+C:\Users\Seventy\Documents\GitHub\Phisics Programming\Week1+\FinalAssignment\bin\Debug\GXPEngine.pdb
